@@ -16,6 +16,11 @@ open your terminal in VSCode to write
 
 <img width="1084" alt="Снимок экрана 2024-06-06 в 04 09 00" src="https://github.com/arukanus/myblog/assets/110685861/5430988e-8c9a-41a8-9072-be7434adff92">
 
+
 **slugs working**
-<img width="1084" alt="Снимок экрана 2024-06-06 в 04 07 44" src="https://github.com/arukanus/myblog/assets/110685861/dd91319f-edd0-41ed-b37a-7c8560f9bb9a">
+
+
+<img width="1084" alt="Снимок экрана 2024-06-06 в 04 10 13" src="https://github.com/arukanus/myblog/assets/110685861/e1e2f2db-f2dd-46da-8ff1-b9c4f3741dbd">
+
+
 
